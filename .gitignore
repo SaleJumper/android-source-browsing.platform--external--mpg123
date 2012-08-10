@@ -30,6 +30,9 @@ Debug/
 Release/
 release/
 
+Debug_SSE_Dll/
+Release_SSE_Dll/
+
 /Makefile
 /config.log
 /config.status
